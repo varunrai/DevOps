@@ -13,4 +13,5 @@ The solution was rather simple then anything.
 ![alt text](https://i.imgur.com/CMeKWdM.jpg) <br><br>
 **Step 5.** Next step is easy. Copy the clone url of the repository and add an arbitary username and PAT in the url (as shown below) <br>
 https://`anything:[PAT]`@[organization].visualstudio.com/[project]/_git/[repository]   
+
 **Step 6.** That's all we have to do. The URL is now ready to be configured in Jenkins
